@@ -1,4 +1,4 @@
-# Analysis on Digital Ethcis 
+# Literature Analysis on Digital Ethcis 
 
 Welcome to the GitHub repository for **Literature.Analysis**. Python for web scraping and data analysis is used to facilitate the selection of scientific papers.
 
